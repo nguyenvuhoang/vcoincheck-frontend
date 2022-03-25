@@ -1,0 +1,1 @@
+export {default as BTCIcon} from './Icon/BTC';
